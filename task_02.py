@@ -2,3 +2,4 @@
 """I am a docstring."""
 
 VALID = False
+PRODUCT = 0
